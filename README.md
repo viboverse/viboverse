@@ -44,9 +44,11 @@
 
 ## 🚀 About Me
 
-Frontend developer & ICT student in Finland, passionate about creating clean, user-friendly applications.  
-I have an endless curiosity for technology — learning something new every day isn’t just part of my work, it’s what excites me the most.
-**Current focus:** Building advanced apps with React, Next.js, Tailwind and TypeScript.
+I'm a passionate frontend developer and ICT student based in Finland who loves bringing ideas to life through code. There's something magical about transforming concepts into interactive web applications that users can actually experience and enjoy.
+
+What drives me? The endless possibilities of web development and the satisfaction of solving problems through clean, efficient code. Every project is a new adventure, and I genuinely enjoy the entire development process — from initial planning to seeing the final product come alive in the browser.
+
+**Currently diving deep into:** React ecosystem, TypeScript, and modern web technologies to build applications that not only work beautifully but also provide exceptional user experiences.
 
 ## 📌 Featured Projects
 
