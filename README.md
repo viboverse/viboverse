@@ -61,7 +61,7 @@ I have an endless curiosity for technology — learning something new every day 
 - 🌐 **Website** → [my-portfolio-eight-orpin-69.vercel.app](https://my-portfolio-eight-orpin-69.vercel.app/)
 - 💼 **LinkedIn** → [linkedin.com/in/vahab-afsharian](https://www.linkedin.com/in/vahab-afsharian)
 - 🐱 **GitHub** → [github.com/viboverse](https://github.com/viboverse)
-- 📧 **Email** → vahab.afsharian@example.com
+- 📧 **Email** → vahab.afsharian94@gmail.com
 
 ---
 
