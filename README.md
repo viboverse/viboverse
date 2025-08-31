@@ -8,6 +8,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vahab-afsharian" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/viboverse" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://my-personal-portfolio-lake-two.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-570ca6?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio"/>
+  </a>
 </p>
 
 <p align="center">
@@ -34,6 +37,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ### Deployment & Hosting
 
@@ -52,15 +56,15 @@ What drives me? The endless possibilities of web development and the satisfactio
 
 ## 📌 Featured Projects
 
-🌐 **[Personal Portfolio](https://my-portfolio-eight-orpin-69.vercel.app/)** - Complete showcase of my work and skills with modern design • _React, Next.js, Tailwind CSS, TypeScript_
+🌐 **[Personal Portfolio](https://my-personal-portfolio-lake-two.vercel.app/)** - Complete showcase of my work and skills with modern design • _React, Next.js, Tailwind CSS, TypeScript_
 
 🎯 **[Tic Tac Toe Game](https://tic-tac-toe-bay-mu-94.vercel.app/)** - Modern React game with unbeatable AI opponent • _React, TypeScript, Tailwind CSS, MUI_
 
-🌤️ **[Weather App](https://react-weather-app-indol-five.vercel.app)** - Real-time weather forecasts with animations • _React, Tailwind, Framer Motion, OpenWeather API_
+🌤️ **[Weather App](https://react-weather-app-vtjz.vercel.app/)** - Real-time weather forecasts with animations • _React, Tailwind, Framer Motion, OpenWeather API_
 
-🎬 **[Movie Database App](https://fetch-movie-app.vercel.app)** - SWAPI & Firebase integration for movie search and management • _React, Firebase, Tailwind CSS_
+🎬 **[Movie Database App](https://fetch-movie-nine.vercel.app/)** - SWAPI & Firebase integration for movie search and management • _React, Firebase, Tailwind CSS_
 
-📋 **[Project Manager](https://project-manager-app-nine.vercel.app)** - Task management app with authentication and state management • _React, Context API, CSS_
+📋 **[Project Manager](https://project-manager-app-beige.vercel.app/)** - Task management app with authentication and state management • _React, Context API, CSS_
 
 # 📊 GitHub Analytics
 
@@ -81,10 +85,6 @@ What drives me? The endless possibilities of web development and the satisfactio
 - 📧 **Email** → vahab.afsharian94@gmail.com
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=viboverse&label=Profile%20views&color=0e75b6&style=flat" alt="viboverse" />
-</p>
 
 <p align="center">
   💡 <i>"The best way to predict the future is to create it."</i> 💡
