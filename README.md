@@ -58,7 +58,7 @@ What drives me? The endless possibilities of web development and the satisfactio
 
 🌐 **[Personal Portfolio](https://my-personal-portfolio-lake-two.vercel.app/)** - Complete showcase of my work and skills with modern design • _React, Next.js, Tailwind CSS, TypeScript_
 
-🎯 **[Tic Tac Toe Game](https://tic-tac-toe-bay-mu-94.vercel.app/)** - Modern React game with unbeatable AI opponent • _React, TypeScript, Tailwind CSS, MUI_
+🎯 **[Tic Tac Toe Game](https://tic-tac-toe-game-app-fawn.vercel.app/)** - Modern React game with unbeatable AI opponent • _React, TypeScript, Tailwind CSS, MUI_
 
 🌤️ **[Weather App](https://react-weather-app-vtjz.vercel.app/)** - Real-time weather forecasts with animations • _React, Tailwind, Framer Motion, OpenWeather API_
 
