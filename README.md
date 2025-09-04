@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Vahab Afsharian (Vibo) 👋</h1>
+<h1 align="center">Hi, I'm Vibo (Vahab Afsharian)  👋</h1>
 
 <p align="center">
-  <b>Frontend Developer • ICT Student</b><br>
-  Passionate about building innovative web applications and mastering cutting-edge technologies.
+    <b>Frontend Developer • ICT Student at <a href="https://www.jamk.fi/en" target="_blank">Jyväskylä University of Applied Sciences</a></b><br>
+  Building modern web applications with React, Next.js and TypeScript.
 </p>
 
 <p align="center">
@@ -48,11 +48,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate frontend developer and ICT student based in Finland who loves bringing ideas to life through code. There's something magical about transforming concepts into interactive web applications that users can actually experience and enjoy.
+I'm a **Frontend Developer** and **ICT student** from Finland who loves building modern web applications. I specialize in React, TypeScript, and creating user-friendly interfaces that solve real problems.
 
-What drives me? The endless possibilities of web development and the satisfaction of solving problems through clean, efficient code. Every project is a new adventure, and I genuinely enjoy the entire development process — from initial planning to seeing the final product come alive in the browser.
+I focus on writing clean code and delivering great user experiences. Every project is an opportunity to learn something new and build something meaningful.
 
-**Currently diving deep into:** React ecosystem, TypeScript, and modern web technologies to build applications that not only work beautifully but also provide exceptional user experiences.
+**Currently working with:** React, Next.js, TypeScript, and Tailwind CSS to create responsive, interactive web applications.
+
+**Goal:** To become a skilled full-stack developer and contribute to projects that make a real impact.
 
 ## 📌 Featured Projects
 
