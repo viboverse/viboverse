@@ -75,6 +75,10 @@ I focus on writing clean code and delivering great user experiences. Every proje
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=viboverse&theme=algolia" alt="viboverse" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;ICT+Student;React+Enthusiast;Always+Learning&center=true&width=380&height=45" alt="Typing SVG">
+</p>
+
 ## 🤝 Let's Connect
 
 - 🌐 **Website** → [https://my-personal-portfolio-lake-two.vercel.app/](https://my-personal-portfolio-lake-two.vercel.app/)
