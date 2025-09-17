@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;ICT+Student;React+Enthusiast;Always+Learning&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;ICT+Student;React+Enthusiast;Always+Learning&center=true&width=380&height=45" alt="Typing SVG">
 </p>
 
 <div align="center">
