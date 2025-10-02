@@ -60,6 +60,8 @@ I focus on writing clean code and delivering great user experiences. Every proje
 
 🌐 **[Personal Portfolio](https://my-personal-portfolio-lake-two.vercel.app/)** - Complete showcase of my work and skills with modern design • _React, Next.js, Tailwind CSS, TypeScript_
 
+😴 **[Sleep Tracker](https://next-sleep-tracker-omega.vercel.app/)** - Track, analyze, and improve your sleep with secure authentication and beautiful charts • _Next.js 15, React 18, Prisma 6, Neon, Tailwind CSS 3, Clerk Auth_
+
 🎯 **[Tic Tac Toe Game](https://tic-tac-toe-game-app-fawn.vercel.app/)** - Modern React game with unbeatable AI opponent • _React, TypeScript, Tailwind CSS, MUI_
 
 🌤️ **[Weather App](https://react-weather-app-vtjz.vercel.app/)** - Real-time weather forecasts with animations • _React, Tailwind, Framer Motion, OpenWeather API_
@@ -67,6 +69,8 @@ I focus on writing clean code and delivering great user experiences. Every proje
 🎬 **[Movie Database App](https://fetch-movie-nine.vercel.app/)** - SWAPI & Firebase integration for movie search and management • _React, Firebase, Tailwind CSS_
 
 📋 **[Project Manager](https://project-manager-app-beige.vercel.app/)** - Task management app with authentication and state management • _React, Context API, CSS_
+
+
 
 # 📊 GitHub Analytics
 
