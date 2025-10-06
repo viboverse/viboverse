@@ -91,8 +91,3 @@ I focus on writing clean code and delivering great user experiences. Every proje
 - 🐱 **GitHub** → [github.com/viboverse](https://github.com/viboverse)
 - 📧 **Email** → vahab.afsharian94@gmail.com
 
----
-
-<p align="center">
-  💡 <i>"The best way to predict the future is to create it."</i> 💡
-</p>
