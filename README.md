@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vibo (Vahab Afsharian)  👋</h1>
 
 <p align="center">
-    <b>Frontend Developer • ICT Student at <a href="https://www.jamk.fi/en" target="_blank">Jyväskylä University of Applied Sciences</a></b><br>
+    <b>Web Developer • ICT Student at <a href="https://www.jamk.fi/en" target="_blank">Jyväskylä University of Applied Sciences</a></b><br>
   Building modern web applications with React, Next.js and TypeScript.
 </p>
 
