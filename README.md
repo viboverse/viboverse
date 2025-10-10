@@ -48,7 +48,7 @@
 
 ## 🚀 About Me
 
-I'm a **Frontend Developer** and **ICT student** in Finland who loves building modern web applications. I specialize in React, TypeScript, and creating user-friendly interfaces that solve real problems.
+I'm a **Web Developer** and **ICT student** in Finland who loves building modern web applications. I specialize in React, TypeScript, and creating user-friendly interfaces that solve real problems.
 
 I focus on writing clean code and delivering great user experiences. Every project is an opportunity to learn something new and build something meaningful.
 
